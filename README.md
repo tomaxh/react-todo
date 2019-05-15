@@ -1,1 +1,3 @@
-Simpler version of a todo list in only React.js
+# React-todo app
+
+A simpler version of a todo list app in only React.js. 
